@@ -15,7 +15,7 @@ function CategoryFilter({ onCategoryChange }) {
             padding: '1px', 
             border: '1px solid #ccc', 
             borderRadius: '1px', 
-            width: '7%', 
+            width: '10%', 
           }}
           onChange={(e) => onCategoryChange(e.target.value)}
         >
